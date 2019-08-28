@@ -1,2 +1,3 @@
-# mam8960_hardware_qcom_audio
-/hardware/qcom/audio  msm8960 source
+# hardware audio source for msm8960
+replace original /hardware/qcom/audio with this source
+It will prevent error: use of undeclared identifier.
